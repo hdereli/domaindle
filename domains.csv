@@ -22,3 +22,38 @@ VTWEG,Vertriebsweg,Distribution channel
 WAERS,Waehrungsschluessel,Currency key
 WARPL,Wartungsplan,Maintenance plan
 XUSER,Benutzername,User Name
+PERNR,Personalnummer,Personnel number
+SUBTY,Subtyp,Subtype
+SPRPS,Sperrkennzeichen fuer Personalstammsatz,Block indicator for personnel master record
+WAERS,Währungsschlüssel,Currency
+BETRG,Lohnartenbetrag für Bezüge,Wage type amount for payments
+LGART,Lohnart,Wage type
+ENDDA,Gültigkeitsende,End Of Validity
+BEGDA,Gültigkeitsbeginn,Start Of Validity
+SEQNR,Nummer eines Infotypsatzes bei gleichem Schlüssel,Number of an infotype record with the same key
+PERSG,Mitarbeitergruppe,Employee group
+PERSK,Mitarbeiterkreis,Employee subgroup
+GSBER,Geschäftsbereich,Business Area
+KOSTL,Kostenstelle,Cost Centre
+ORGEH,Organisationseinheit,Organizational unit
+BTRTL,Personalteilbereich,Personnel subarea
+PLANS,Planstelle,Position
+STELL,Stelle,Job
+KOKRS,Kostenrechnungskreis,Controlling area
+FKBER,Funktionsbereich,Functional area
+PLVAR,Planvariante,Plan variant
+OTYPE,Objekttyp,Object type
+OBJID,Objekt-Id,Object Id
+ISTAT,Planungsstatus,Planning status
+LANGU,Sprachenschlüssel,Language key
+REASN,Grund,Reason
+HISTO,Historisierungskennzeichen,Historization indicator
+ITXNR,Textbaustein zum Infotyp,Text module for the infotype
+STEXT,Objektbezeichnung,Object label
+RSIGN,Ausprägung der Verknüpfung,expression of the link
+RELAT,Verknüpfung zwischen Objekten,Link between objects/Relation
+PRIOX,Priorität,Priority
+INFTY,Infotyp,Infotype
+SCLAS,Typ des verknüpften Objekts,Type of linked object
+SOBID,Id des verknüpften Objekts,Id of the linked object
+PROZT,Gewichtungsprozentsatz,Weight percentage
